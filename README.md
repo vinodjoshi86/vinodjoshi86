@@ -8,18 +8,8 @@
 - ⚡ Fun fact: ...
 (bh)
 first version
-Ratna - My Mantor for GIT training
-dinesh
-VS Code Class and Git hub
-need to check
-test-5
-test-6
 
-Test-7
-Test-8
-Test-9
-Test-10
-Test-11
+
 
 <<<<<<< HEAD
 test3
