@@ -12,10 +12,12 @@ Ratna - My Mantor for GIT training
 dinesh
 VS Code Class and Git hub
 need to check
+test-5
+test-6
 <<<<<<< HEAD
 test3
 =======
-test-4
+
 vinod joshi
 
 >>>>>>> 67050b31c5296e0a2f304ec0bc4630b75a065f85
