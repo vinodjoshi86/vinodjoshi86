@@ -14,6 +14,8 @@ VS Code Class and Git hub
 need to check
 test-5
 test-6
+
+Test-7
 <<<<<<< HEAD
 test3
 =======
